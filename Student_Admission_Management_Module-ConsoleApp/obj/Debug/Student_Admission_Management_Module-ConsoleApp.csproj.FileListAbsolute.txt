@@ -1,0 +1,7 @@
+C:\LABs-V-sem\.net\Student_Admission_Management_Module-ConsoleApp\bin\Debug\Student_Admission_Management_Module-ConsoleApp.exe.config
+C:\LABs-V-sem\.net\Student_Admission_Management_Module-ConsoleApp\bin\Debug\Student_Admission_Management_Module-ConsoleApp.exe
+C:\LABs-V-sem\.net\Student_Admission_Management_Module-ConsoleApp\bin\Debug\Student_Admission_Management_Module-ConsoleApp.pdb
+C:\LABs-V-sem\.net\Student_Admission_Management_Module-ConsoleApp\obj\Debug\Student_Admission_Management_Module-ConsoleApp.csproj.AssemblyReference.cache
+C:\LABs-V-sem\.net\Student_Admission_Management_Module-ConsoleApp\obj\Debug\Student_Admission_Management_Module-ConsoleApp.csproj.CoreCompileInputs.cache
+C:\LABs-V-sem\.net\Student_Admission_Management_Module-ConsoleApp\obj\Debug\Student_Admission_Management_Module-ConsoleApp.exe
+C:\LABs-V-sem\.net\Student_Admission_Management_Module-ConsoleApp\obj\Debug\Student_Admission_Management_Module-ConsoleApp.pdb
