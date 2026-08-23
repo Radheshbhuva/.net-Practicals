@@ -1,0 +1,7 @@
+C:\LABs-V-sem\.net\Expense Tracking Module\bin\Debug\Expense Tracking Module.exe.config
+C:\LABs-V-sem\.net\Expense Tracking Module\bin\Debug\Expense Tracking Module.exe
+C:\LABs-V-sem\.net\Expense Tracking Module\bin\Debug\Expense Tracking Module.pdb
+C:\LABs-V-sem\.net\Expense Tracking Module\obj\Debug\Expense Tracking Module.csproj.AssemblyReference.cache
+C:\LABs-V-sem\.net\Expense Tracking Module\obj\Debug\Expense Tracking Module.csproj.CoreCompileInputs.cache
+C:\LABs-V-sem\.net\Expense Tracking Module\obj\Debug\Expense Tracking Module.exe
+C:\LABs-V-sem\.net\Expense Tracking Module\obj\Debug\Expense Tracking Module.pdb
