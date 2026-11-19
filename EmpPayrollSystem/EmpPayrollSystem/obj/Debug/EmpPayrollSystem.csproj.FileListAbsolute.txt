@@ -1,0 +1,7 @@
+C:\Users\mihir\source\repos\EmpPayrollSystem\EmpPayrollSystem\bin\Debug\EmpPayrollSystem.exe.config
+C:\Users\mihir\source\repos\EmpPayrollSystem\EmpPayrollSystem\bin\Debug\EmpPayrollSystem.exe
+C:\Users\mihir\source\repos\EmpPayrollSystem\EmpPayrollSystem\bin\Debug\EmpPayrollSystem.pdb
+C:\Users\mihir\source\repos\EmpPayrollSystem\EmpPayrollSystem\obj\Debug\EmpPayrollSystem.csproj.AssemblyReference.cache
+C:\Users\mihir\source\repos\EmpPayrollSystem\EmpPayrollSystem\obj\Debug\EmpPayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\mihir\source\repos\EmpPayrollSystem\EmpPayrollSystem\obj\Debug\EmpPayrollSystem.exe
+C:\Users\mihir\source\repos\EmpPayrollSystem\EmpPayrollSystem\obj\Debug\EmpPayrollSystem.pdb
