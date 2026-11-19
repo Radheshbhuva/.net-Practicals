@@ -1,0 +1,7 @@
+C:\Users\mihir\source\repos\ConsoleApp2\EmployePayrollSystem\bin\Debug\EmployePayrollSystem.exe.config
+C:\Users\mihir\source\repos\ConsoleApp2\EmployePayrollSystem\bin\Debug\EmployePayrollSystem.exe
+C:\Users\mihir\source\repos\ConsoleApp2\EmployePayrollSystem\bin\Debug\EmployePayrollSystem.pdb
+C:\Users\mihir\source\repos\ConsoleApp2\EmployePayrollSystem\obj\Debug\EmployePayrollSystem.csproj.AssemblyReference.cache
+C:\Users\mihir\source\repos\ConsoleApp2\EmployePayrollSystem\obj\Debug\EmployePayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\mihir\source\repos\ConsoleApp2\EmployePayrollSystem\obj\Debug\EmployePayrollSystem.exe
+C:\Users\mihir\source\repos\ConsoleApp2\EmployePayrollSystem\obj\Debug\EmployePayrollSystem.pdb
